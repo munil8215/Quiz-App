@@ -4,7 +4,7 @@ A simple, interactive quiz application built using **HTML**, **CSS**, and **Vani
 
 ## 📸 Demo
 
-![Quiz App Screenshot](https://user-images.githubusercontent.com/your-screenshot-url.png)  
+![Quiz App Screenshot](https://github.com/munil8215/Quiz-App/blob/main/Screenshot%202025-07-09%20221936.png)  
 *(Replace with a real screenshot after deployment)*
 
 ## 🚀 Features
